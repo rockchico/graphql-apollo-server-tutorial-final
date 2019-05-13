@@ -1,0 +1,6 @@
+echo "# graphql-apollo-server-tutorial-final" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rockchico/graphql-apollo-server-tutorial-final.git
+git push -u origin master
